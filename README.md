@@ -1,10 +1,25 @@
-### EV Charging Station Analysis
+# EV Charging Behavior Analysis
 
-This repository is part of an ongoing Project-Based Learning (P2BL) work on EV charging data.
+This repository contains ongoing work on analyzing EV charging data to understand
+usage patterns, peak charging hours, and load distribution.
 
-The project is not completed yet.
-The current commits are made only to track progress, consistency, and development flow.
+## Current Status
+🚧 Work in progress  
+This project is not completed yet. Commits are made to track progress,
+experiments, and learning.
 
-Work is actively in progress, and the repository structure, data, and code may change as the project evolves.
+## What is being done
+- Data cleaning and preprocessing
+- Date & time feature engineering
+- Hour-wise and weekday-wise analysis
+- Visualization using Python and Power BI (planned)
 
-# Status: 🚧 Work in Progress
+## Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib)
+- Jupyter Notebook
+- Power BI (upcoming)
+
+## Notes
+This repository will be updated gradually as the experiment progresses.
+
+
